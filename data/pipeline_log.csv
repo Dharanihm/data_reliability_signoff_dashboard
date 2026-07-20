@@ -1,0 +1,4 @@
+pipeline,last_updated,status
+Sales ETL,2026-07-20 09:00,Success
+Warehouse Sync,2026-07-20 09:15,Success
+Customer ETL,2026-07-20 09:25,Success 

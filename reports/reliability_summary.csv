@@ -1,0 +1,8 @@
+Metric,Status,Value
+Data Completeness,PASS,100.0%
+Pipeline Freshness,PASS,2026-07-20 09:25:00
+Source Records,PASS,5
+Warehouse Records,PASS,5
+Reconciliation,PASS,0
+Duplicate Records,PASS,0
+Overall Reliability,APPROVED,100%
